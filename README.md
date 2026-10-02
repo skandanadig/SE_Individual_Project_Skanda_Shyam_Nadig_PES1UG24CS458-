@@ -116,17 +116,17 @@ If the required information or location data cannot be obtained automatically, t
 
 If the device is offline, the citizen can save/draft the report and submit it when connectivity becomes available.
 
-## 8. Repository Contents
+## 8. Repository Structure
 
-| File                                   | Description                                                                                      |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| `29_SE_Lab1_SE_Problem_Statements.pdf` | Problem statements provided for the laboratory activity.                                         |
-| `Requirements_Table.docx`              | Functional and non-functional requirements with priorities, acceptance criteria, and rationales. |
-| `UseCase_Diagram.pdf`                  | UML use-case diagram containing the three actors, seven use cases, and UML relationships.        |
-| `UseCase_Flow.docx`                    | Detailed use-case flow specification for UC-01.                                                  |
-| `Alternate_Flow_Diagram.pdf`           | Diagram representing alternate flows.                                                            |
-| `Exception_Flow_Diagram.pdf`           | Diagram representing exception flows.                                                            |
-| `README.md`                            | Project overview and documentation.                                                              |
+This repository follows the required folder structure for the Individual Project Submissions:
+
+* **`1-RE/`**: Requirements Engineering documents (FR, NFR, RTM Table, Use Cases, flow diagrams).
+* **`2-Architectural_Diagram/`**: Architectural Component Diagrams and Justification for the Municipal Infrastructure App.
+* **`3-Project_Creation/`**: Project Creation screenshots in GitHub and Jira Tool.
+* **`4-SRS_and_WBS/`**: Software Requirements Specification (SRS) and Work Breakdown Structure (WBS) steps.
+* **`5-Copilot_Generated_Code/`**: Github Copilot generated code screenshots or repository links.
+* **`6-Software_Testing/`**: Software Testing Tools practice and bug fix documentation.
+* **`SELABS/Lab3/`**: Lab 3 Component Modelling & Architectural Pattern Selection deliverables.
 
 ## 9. UML Diagram
 
